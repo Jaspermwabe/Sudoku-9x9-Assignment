@@ -1,4 +1,4 @@
-# Sudoku Assignment — Pseudocode
+Sudoku Assignment — Pseudocode
 
 Helper Functions (used everywhere)
 
